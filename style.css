@@ -39,7 +39,6 @@ header {
     padding: 10px 100px;
     color: white;
     height: 10vh;
-    border-bottom: 0.1px solid #333;
     backdrop-filter: blur(10px);
 }
 
@@ -236,5 +235,4 @@ footer {
     align-items: center;
     height: 10vh;
     color: #333;
-    border-top: 0.1px solid #333;
 }
